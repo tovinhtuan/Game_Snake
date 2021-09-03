@@ -1,0 +1,12 @@
+main.c:76:6:HAL_GPIO_EXTI_Callback	48	static
+main.c:149:5:main	8	static
+main.c:203:6:SystemClock_Config	88	static
+main.c:243:13:MX_SPI2_Init	8	static
+main.c:279:13:MX_DMA_Init	16	static
+main.c:297:13:MX_GPIO_Init	48	static
+main.c:339:6:checkPoint	16	static
+main.c:349:6:initGame	16	static
+main.c:373:6:drawSnake	16	static
+main.c:381:6:moveSnake	16	static
+main.c:424:6:gameOver	24	static
+main.c:453:6:Error_Handler	4	static,ignoring_inline_asm
